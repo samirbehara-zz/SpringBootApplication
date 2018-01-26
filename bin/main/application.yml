@@ -1,0 +1,11 @@
+server:
+  port: ${service.port:8080}
+
+swagger:
+  title: BookMiddle Service REST APIs
+  description: This successfully showcased Spring Boot REST API
+  contact:
+    name: Samir
+    url: http://www.ebsco.com
+    email: sbehara1@ebsco.com
+  version: 1.0.0
