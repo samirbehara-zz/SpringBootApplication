@@ -1,10 +1,10 @@
-Creating a REST Spring Boot Microservice
+# Creating a REST Spring Boot Microservice
 
-Build
+## Build
 $ gradle build
 
-Run
+## Run
 $ gradle bootRun
 
-Explore
-Go to http://localhost:8080/books from a browser or Postman.
+## Test the application
+Go to http://localhost:8080/books from your web browser or Postman.
